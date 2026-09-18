@@ -3,7 +3,7 @@
 Join a queue remotely, watch your position update live, and get notified when
 your turn is near. Businesses manage their queues from a staff dashboard.
 
-Built in Java with **zero external dependencies** â€” no Maven, no Gradle, no
+Built in Java with **zero external dependencies** no Maven, no Gradle, no
 database server. If you have a JDK, you can run it.
 
 ---
