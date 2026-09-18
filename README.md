@@ -1,4 +1,4 @@
-# QORA â€” Smart Digital Queue Management System
+# QORA Smart Digital Queue Management System
 
 Join a queue remotely, watch your position update live, and get notified when
 your turn is near. Businesses manage their queues from a staff dashboard.
